@@ -13,5 +13,5 @@ matplotlib>=1.4.3
 pandas>=0.19
 
 Pillow >= 8.3.2
-tensorflow-gpu==1.7.1
+tensorflow-gpu==2.5.1
 opencv-python==4.4.0.46
